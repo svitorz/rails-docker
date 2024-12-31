@@ -29,7 +29,7 @@ COPY . /app
 ```
 Insira no seu terminal:
 ```bash 
-$ docker build -t rails-crud 
+$ docker build -t rails-crud . 
 ```
 
 Após isso, você já poderá criar seu projeto. Entre no diretório que deseja manter seu projeto, e insira no terminal:
